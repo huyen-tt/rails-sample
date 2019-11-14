@@ -1,0 +1,2 @@
+user = [{name: Huyen, age: 21}, {name: Kien, age: 22}]
+puts user
